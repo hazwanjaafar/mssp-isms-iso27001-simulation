@@ -1,3 +1,4 @@
+![Diagram](https://github.com/hazwanjaafar/mssp-isms-iso27001-simulation/blob/main/images/front%20page.png)
 # 🛡️ ISO/IEC 27001:2022 Implementation Simulation – MSSP (Malaysia)
 
 > **⚠️ DISCLAIMER: This repository is strictly for educational and learning purposes only.**
